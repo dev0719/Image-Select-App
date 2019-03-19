@@ -1,0 +1,6 @@
+export const SET_PHRASEBOOK = "SET_PHRASEBOOK"
+export const SET_IMAGES = "SET_IMAGES"
+export const SET_MATCH = "SET_MATCH"
+export const SET_CAPTIONS = "SET_CAPTIONS"
+export const SET_FILE_NAME = "SET_FILE_NAME"
+export const SET_FILE_CONTENT = "SET_FILE_CONTENT"
